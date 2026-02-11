@@ -42,3 +42,8 @@ The dataset contains customer information such as:
 - Increase marketing ROI
 - Personalise customer engagement strategies
 - Optimize sales and retention plans
+
+# 🧑‍💻 Author
+
+Suraj Nirgun
+Data Science & Analytics
