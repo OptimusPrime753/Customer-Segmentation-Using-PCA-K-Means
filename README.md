@@ -9,7 +9,7 @@ Customer retention strategies
 Revenue optimization
 Business decision-making.
 
-🗂 Dataset Description
+# 🗂 Dataset Description
 
 The dataset contains customer information such as:
 - Age
